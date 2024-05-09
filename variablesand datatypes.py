@@ -1,11 +1,11 @@
 #It is about datatypes and variables.
 #variables are the containers.
 
-a=1
-print(a)
+a1=1
+print(a1)
 
-b="Shivi"
-print(b) 
+b1="Shivi"
+print(b1) 
 
 a=1
 b="Shiv"
@@ -20,3 +20,5 @@ print(type(c))
 print(type(d))
 print(type(e))
 print(type(f))
+ print("harry")
+#Seuence data = List and Tuples.
