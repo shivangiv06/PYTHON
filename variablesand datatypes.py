@@ -20,5 +20,5 @@ print(type(c))
 print(type(d))
 print(type(e))
 print(type(f))
- print("harry")
+print("harry")
 #Seuence data = List and Tuples.
